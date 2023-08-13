@@ -13,3 +13,4 @@ unethical guides for minecraft players </br>
 ### table of contents 
 * [alt accounts](https://github.com/unethicalmc/guides/blob/main/alt%20accounts.md#alt-accounts)
 * ["cracked" minecraft](https://github.com/unethicalmc/guides/blob/main/%22cracked%22.md#cracked-minecraft)
+* [downgrade lunar client launcher](https://github.com/unethicalmc/guides/blob/main/downgrade%20lc%20launcher.md#downgrade-lunar-clients-launcher-to-2161)
