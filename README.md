@@ -6,7 +6,7 @@ unethical guides for minecraft players </br>
    <summary><strong>boilerplate disclaimer</strong></summary>
 
   ### educational purposes only
-  The content in this GitHub repository is for educational purposes only. Verify information independently before acting on it. We aren't liable for errors, actions taken, or any damages from using the contentp rovided. Use resources responsibly and consult experts when needed. By accessing this repository, you agree to these terms.
+  The content in this GitHub repository is for educational purposes only. Verify information independently before acting on it. We aren't liable for errors, actions taken, or any damages from using the content provided. Use resources responsibly and consult experts when needed. By accessing this repository, you agree to these terms.
      
 </details>
 
