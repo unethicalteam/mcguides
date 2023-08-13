@@ -1,5 +1,6 @@
-# guides
-unethical guides for minecraft players
+# guides 
+unethical guides for minecraft players </br>
+[discord](https://discord.gg/vhJ8Dsp9qa)
 
 <details>
    <summary><strong>boilerplate disclaimer</strong></summary>
